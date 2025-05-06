@@ -51,9 +51,14 @@ Getting Started
 - Node.js installed
 - Git installed
 
+
  Installation
 ```bash
 git clone https://github.com/your-username/law-firm-react-app.git
 cd law-firm-react-app
 npm install
 npm run dev
+
+Author Narangi George – Aspiring legal-tech developer & creative problem solver.
+ "Code it, own it, build better."
+
