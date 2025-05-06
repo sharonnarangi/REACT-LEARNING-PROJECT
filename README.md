@@ -59,6 +59,4 @@ cd law-firm-react-app
 npm install
 npm run dev
 
-Author Narangi George – Aspiring legal-tech developer & creative problem solver.
- "Code it, own it, build better."
 
